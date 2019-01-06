@@ -1,6 +1,6 @@
 Package: pyret
 Version: 0.1-1
 Architecture: all
-Depends: nodejs (>= 1.2.13)
+Depends: nodejs (>= 6.0)
 Maintainer: Joe Politz <joe.politz@gmail.com>
 Description: A functional scripting language geared toward education
